@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">萝卜停车（车场版）</string>
+    <string name="title_report">上报</string>
+    <string name="title_lottery">奖票</string>
+    <string name="title_mine">我的</string>
+    <string name="navigation_drawer_open">开</string>
+    <string name="navigation_drawer_close">关</string>
+    <string name="action_example">测试</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
